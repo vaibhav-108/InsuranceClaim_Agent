@@ -1,0 +1,9 @@
+langgraph
+langmem
+langchain-openai
+langchain-groq
+langchain-huggingface
+langchain-community
+sentence-transformers
+
+python-dotenv
