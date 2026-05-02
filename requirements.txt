@@ -7,3 +7,7 @@ langchain-community
 sentence-transformers
 
 python-dotenv
+chromadb
+streamlit
+fastapi
+uvicorn[standard]
